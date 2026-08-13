@@ -8,11 +8,11 @@ Welcome to my Data Structures and Algorithms (DSA) lab repository! 🚀
 This repository holds my Data Structures and Algorithms lab work, written in C. It covers essential concepts like sorting, stacks, and number-based problems, built as part of my journey to strengthen my programming fundamentals.
 
 ## 🎯 Goals
-Improve problem-solving skills
-Strengthen DSA fundamentals
-Practice writing clean, efficient C code
-Build a strong base for coding interviews
-Understand core algorithms through hands-on implementation
+- Improve problem-solving skills  
+Strengthen DSA fundamentals  
+Practice writing clean, efficient C code  
+Build a strong base for coding interviews  
+Understand core algorithms through hands-on implementation  
 
 # 🛠️ Language Used
     •C
@@ -72,12 +72,6 @@ The codebase is organized by topic, with each `.c` file implementing one concept
 4.Choose the right data structure — pick the structure (array, stack, queue, linked list, tree) best suited to the problem.  
 5.Implement and test — write clean C code and test it against multiple sample inputs, including edge cases.  
 6.Optimize — refine the logic for better time and space complexity where possible.
-## 🎯 Goals
-1.Improve problem-solving skills.    
-2.Strengthen DSA fundamentals.    
-3.Practice writing clean, efficient C code   
-4.Build a strong base for coding interviews  
-5.Understand core algorithms through hands-on implementation 
 ## ✍️ Author
  👩‍💻Rahimah Binte Ali  
 Sylhet Engineering College 
