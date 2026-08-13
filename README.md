@@ -56,8 +56,6 @@ The codebase is organized by topic, with each `.c` file implementing one concept
 | `recursive_fibonacci_factorial.c` | Factorial and Fibonacci using recursion |
 | `sum_of_elements.c` | Calculates the sum of array elements |
 
-> Update file names above if they differ from your actual repo.
-
 ---
 
 ## 🚀 How to Run
@@ -82,4 +80,4 @@ The codebase is organized by topic, with each `.c` file implementing one concept
 5.Understand core algorithms through hands-on implementation 
 ## ✍️ Author
  👩‍💻Rahimah Binte Ali  
-Data Structures and Algorithms 
+Sylhet Engineering College 
