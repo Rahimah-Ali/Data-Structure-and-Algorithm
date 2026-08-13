@@ -9,10 +9,10 @@ This repository holds my Data Structures and Algorithms lab work, written in C. 
 
 ## 🎯 Goals
 - Improve problem-solving skills  
-Strengthen DSA fundamentals  
-Practice writing clean, efficient C code  
-Build a strong base for coding interviews  
-Understand core algorithms through hands-on implementation  
+- Strengthen DSA fundamentals  
+- Practice writing clean, efficient C code  
+- Build a strong base for coding interviews  
+- Understand core algorithms through hands-on implementation  
 
 # 🛠️ Language Used
     •C
@@ -66,12 +66,12 @@ The codebase is organized by topic, with each `.c` file implementing one concept
    cd Data-Structure-and-Algorithm
 
 # 🧠 Problem Solving Approach
-1.Each program in this repository follows a simple, structured approach:
-2.Understand the problem — identify inputs, outputs, and edge cases.  
-3.Break it down — divide the problem into smaller logical steps (e.g., initialization, processing, output).  
-4.Choose the right data structure — pick the structure (array, stack, queue, linked list, tree) best suited to the problem.  
-5.Implement and test — write clean C code and test it against multiple sample inputs, including edge cases.  
-6.Optimize — refine the logic for better time and space complexity where possible.
+- Each program in this repository follows a simple, structured approach:
+- Understand the problem — identify inputs, outputs, and edge cases.  
+- Break it down — divide the problem into smaller logical steps (e.g., initialization, processing, output).  
+- Choose the right data structure — pick the structure (array, stack, queue, linked list, tree) best suited to the problem.  
+- Implement and test — write clean C code and test it against multiple sample inputs, including edge cases.  
+- Optimize — refine the logic for better time and space complexity where possible.
 ## ✍️ Author
  👩‍💻Rahimah Binte Ali  
 Sylhet Engineering College 
