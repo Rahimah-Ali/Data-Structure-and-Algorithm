@@ -1,7 +1,7 @@
 # 📚 Data Structures and Algorithms
 Student: Rahimah Binte Ali  
 Course: Data Structures and Algorithms  
-Semester: 2nd Semester
+Semester: Second(2nd)
 
 # Overview
 Welcome to my Data Structures and Algorithms (DSA) lab repository! 🚀  
